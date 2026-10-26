@@ -1,7 +1,8 @@
 site_name: Backend Engineering Handbook
 site_description: Подробная методичка по Java, Kotlin, Go, Spring, базам данных и распределённым системам
-repo_name: 1ommyS/itp-ebook
-repo_url: https://github.com/1ommyS/itp-ebook
+site_url: https://itpark32.github.io/java-12-metodichka/
+repo_name: itpark32/java-12-metodichka
+repo_url: https://github.com/itpark32/java-12-metodichka
 edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2022–2026 1ommyS
 
